@@ -1,0 +1,56 @@
+<script src="<%= asset "js/menu.js" %>"></script>
+<nav class="navbar" role="navigation" aria-label="main navigation">
+  <div class="navbar-brand">
+    <a class="navbar-item is-family-code is-uppercase" href="<%= page "index" %>">
+      <strong>Sannet Bodewes</strong>
+    </a>
+
+    <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="portfolioNavbar">
+      <span aria-hidden="true"></span>
+      <span aria-hidden="true"></span>
+      <span aria-hidden="true"></span>
+    </a>
+  </div>
+
+  <div id="portfolioNavbar" class="navbar-menu">
+    <div class="navbar-start" >
+      <div class="navbar-item has-dropdown is-hoverable">
+        <span class="navbar-link">
+          Werk
+        </span>
+
+        <div class="navbar-dropdown">
+          <%= for page <- Enum.filter(@all_pages, & String.starts_with?(&1.url, "/work/")) do %>
+            <a class="navbar-item" href="<%= page.url %>">
+              <%= page.title %>
+            </a>
+          <% end %>
+        </div>
+      </div>
+
+      <a class="navbar-item" href="<%= page "about" %>">
+        About
+      </a>
+    </div>
+
+    <div class="navbar-end">
+      <a href="mailto:sannetbodewes@gmail.com" target="_blank" class="navbar-item">
+        <span class="icon">
+          <i class="zmdi zmdi-email zmdi-hc-lg"></i>
+        </span>
+      </a>
+
+      <a href="https://linkedin.com/in/sannet-bodewes" target="_blank" class="navbar-item">
+        <span class="icon">
+          <i class="zmdi zmdi-linkedin-box zmdi-hc-lg"></i>
+        </span>
+      </a>
+
+      <a href="https://instagram.com/sannetbo" target="_blank" class="navbar-item">
+        <span class="icon">
+          <i class="zmdi zmdi-instagram zmdi-hc-lg"></i>
+        </span>
+      </a>
+    </div>
+  </div>
+</nav>

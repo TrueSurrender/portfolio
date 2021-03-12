@@ -1,0 +1,44 @@
+---
+title: About
+---
+<div class="columns is-multiline is-centered">
+  <div class="column is-6">
+    <h1 class="title is-5 mt-6 is-spaced has-text-centered">Sannet Bodewes</h1>
+    <h6 class="subtitle is-6 has-text-centered has-margin-top-minus-15">
+      <em>Illustrator en vormgever</em>
+    </h6>
+
+    <div class="block mt-6 is-family-secondary has-text-centered">
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eget egestas purus viverra accumsan in nisl. Maecenas ultricies mi eget mauris pharetra et ultrices neque ornare. Enim sed faucibus turpis in eu mi. Etiam tempor orci eu lobortis elementum nibh tellus. Velit euismod in pellentesque massa placerat. Nec sagittis aliquam malesuada bibendum arcu vitae elementum. Tristique magna sit amet purus gravida quis blandit turpis. Lobortis feugiat vivamus at augue eget arcu. Diam maecenas sed enim ut sem viverra.
+    </div>
+  </div>
+
+  <div class="column is-5 is-offset-1">
+    <p class="image">
+    <img src="<%= asset "images/about.png" %>"></img>
+    </p>
+  </div>
+</div>
+
+<hr class="has-margin-top-50">
+
+
+<h1 class="title is-5 mt-6 has-margin-bottom-minus-10">Ervaring</h1>
+
+<div class="block mt-6 mb-5 is-family-secondary">
+  <p class="mb-1"><strong>2017 - 2021</strong></p>
+  <p class="mb-1">UI design voor JPB IT Solutions</p>
+  <p class="is-size-4 is-family-primary"><em>Veendam</em></p>
+</div>
+
+<div class="block mb-5 is-family-secondary">
+  <p class="mb-1"><strong>2016</strong></p>
+  <p class="mb-1">Illustraties voor Raindropchess</p>
+  <p class="is-size-4 is-family-primary"><em>Groningen</em></p>
+</div>
+
+<div class="block is-family-secondary">
+  <p class="mb-1"><strong>2015</strong></p>
+  <p class="mb-1">Freelance workshop docent Noorderpoort college</p>
+  <p class="is-size-4 is-family-primary"><em>Groningen</em></p>
+</div>

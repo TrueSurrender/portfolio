@@ -1,0 +1,13 @@
+<% {:ok, %DateTime{year: year}} = DateTime.now("Etc/UTC") %>
+
+<footer class="footer">
+  <div class="content has-text-centered">
+    <p>&copy; <%= year %> by <strong>Sannet Bodewes</strong></p>
+    <p class="is-size-6 has-margin-top-minus-10">Powered by <a href="https://dalgona.github.io/Serum">Serum</a>, with <a href="https://bulma.io">Bulma</a></p>
+    <span class="icon has-margin-top-minus-10">
+      <a href="https://github.com" target="_blank">
+        <i class="zmdi zmdi-github zmdi-hc-lg"></i>
+      </a>
+    </span>
+  </div>
+</footer>

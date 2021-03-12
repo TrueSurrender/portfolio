@@ -1,0 +1,10 @@
+---
+title: Portfolio
+---
+<%= render "gallery",
+  images: [
+    "home/goddess",
+    "home/summer",
+    "home/lives",
+    "home/sleeplessness"
+] %>

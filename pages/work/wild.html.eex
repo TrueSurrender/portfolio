@@ -1,0 +1,15 @@
+---
+title: Out in the Wild
+---
+<div class="mb-6">
+  <h1 class="title is-spaced has-text-centered">Out in the wild</h1>
+  <h6 class="subtitle is-6 has-text-centered has-margin-top-minus-15"><em>Personal work</em></h6>
+</div>
+
+<div class="block has-text-centered is-family-secondary has-margin-bottom-50">
+  Discovered a great new hobby called geocaching. I love discovering new places and finding a treasure.
+</div>
+
+<%= render "gallery", images: [
+    "wild/wild"
+] %>

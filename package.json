@@ -1,0 +1,19 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio site for Sannet Bodewes",
+  "main": "assets/css/bulma.css",
+  "scripts": {
+    "build": "npx sass src/index.scss assets/css/bulma.css -I node_modules",
+    "watch": "npm run build -- --watch",
+    "start": "npm run watch"
+  },
+  "author": "Sannet Bodewes & Rick Littel",
+  "license": "MIT",
+  "devDependencies": {
+    "bulma": "^0.9.2",
+    "bulma-modal-fx": "^1.1.1",
+    "bulma-spacing": "^2.1.5",
+    "sass": "^1.32.8"
+  }
+}

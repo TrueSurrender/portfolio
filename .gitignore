@@ -1,0 +1,19 @@
+# Mix artifacts
+/_build
+/deps
+/*.ez
+
+# If the VM crashes, it generates a dump, let's ignore it too.
+erl_crash.dump
+
+# Static artifacts
+/node_modules
+
+# Ignore package tarball (built via "mix hex.build").
+portfolio-*.tar
+
+# The default directory which Serum builds the website into.
+/site/
+
+# CSS is build with Sass
+/assets/css/
