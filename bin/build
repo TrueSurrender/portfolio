@@ -1,0 +1,7 @@
+#!/bin/bash
+
+# Compile static assets
+npm run-script build
+
+# Build the site
+mix serum.build
