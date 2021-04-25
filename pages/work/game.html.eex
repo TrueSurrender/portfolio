@@ -1,0 +1,20 @@
+---
+title: Faraway worlds
+---
+<div class="mb-6">
+  <h1 class="title is-spaced has-text-centered">Faraway worlds</h1>
+  <h6 class="subtitle is-6 has-text-centered has-margin-top-minus-15"><em>Personal work</em></h6>
+</div>
+<div class="columns is-multiline is-vcentered">
+  <div class="column is-6">
+    <div class="block mt-6 is-family-secondary has-text-centered">
+      <p class="mt-6">I have always been intrigued by building and interior design. There are so many extraordinary homes in many different intriguing parts of the world.</p>
+    </div>
+  </div>
+
+  <div class="column is-5 is-offset-1">
+    <p class="image">
+    <img src="<%= asset "images/game/mountainhouse.png" %>"></img>
+    </p>
+  </div>
+</div>

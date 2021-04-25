@@ -5,11 +5,29 @@ title: Out in the Wild
   <h1 class="title is-spaced has-text-centered">Out in the wild</h1>
   <h6 class="subtitle is-6 has-text-centered has-margin-top-minus-15"><em>Personal work</em></h6>
 </div>
+<div class="columns is-multiline is-vcentered">
+  <div class="column is-6">
+    <div class="block mt-6 is-family-secondary has-text-centered">
+      <p class="mt-6">Welcomed a great new hobby called geocaching. I love discovering new places and the excitement of finding a treasure.</p>
+    </div>
+  </div>
 
-<div class="block has-text-centered is-family-secondary has-margin-bottom-50">
-  Discovered a great new hobby called geocaching. I love discovering new places and finding a treasure.
+  <div class="column is-4 is-offset-1">
+    <p class="image">
+    <img class="is-rounded" src="<%= asset "images/wild/geocache1.png" %>"></img>
+    </p>
+  </div>
+  
+  <div class="columns is-6 is-offset-1">
+    <p class="image">
+      <img class="is-rounded" src="<%= asset "images/wild/geocache1.png" %>"></img>
+    </p>
+  </div>
+
+  <div class="column is-6 is-offset-2">
+    <div class="column is-6">
+      <div class="block mt-6 is-family-secondary has-text-centered">
+      <p class="mt-6">The first cache took me a while to find. It was hidden away in a treetrunk. Imagine my beginners luck.. Pretty soon I was hooked on this amazing new hobby and driving my car to the next coordinates!</p>
+    </div>
+  </div>
 </div>
-
-<%= render "gallery", images: [
-    "wild/wild"
-] %>

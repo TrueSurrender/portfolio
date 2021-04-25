@@ -2,7 +2,9 @@
 <nav class="navbar" role="navigation" aria-label="main navigation">
   <div class="navbar-brand">
     <a class="navbar-item is-family-code is-uppercase" href="<%= page "index" %>">
-      <strong>Sannet Bodewes</strong>
+      <p class="image">
+        <img src="<%= asset "images/logo.png" %>"></img>
+      </p>
     </a>
 
     <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="portfolioNavbar">
@@ -16,7 +18,7 @@
     <div class="navbar-start" >
       <div class="navbar-item has-dropdown is-hoverable">
         <span class="navbar-link">
-          Werk
+          Work
         </span>
 
         <div class="navbar-dropdown">

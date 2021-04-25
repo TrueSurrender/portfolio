@@ -9,7 +9,7 @@ title: About
     </h6>
 
     <div class="block mt-6 is-family-secondary has-text-centered">
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eget egestas purus viverra accumsan in nisl. Maecenas ultricies mi eget mauris pharetra et ultrices neque ornare. Enim sed faucibus turpis in eu mi. Etiam tempor orci eu lobortis elementum nibh tellus. Velit euismod in pellentesque massa placerat. Nec sagittis aliquam malesuada bibendum arcu vitae elementum. Tristique magna sit amet purus gravida quis blandit turpis. Lobortis feugiat vivamus at augue eget arcu. Diam maecenas sed enim ut sem viverra.
+Hallo! ik ben Sannet, enthousiaste illustrator en vormgever.  In 2015 studeerde ik af als illustrator aan Academie Minerva in Groningen. Een periode ben ik freelancer geweest en heb ik aan verschillende opdrachten gewerkt. Momenteel ben ik werkzaam als UI designer en verzorg ik de vormgeving voor het bedrijf waar ik werk. Ik ben veelzijdig en vind het dan ook erg leuk om verschillende vormen van creativiteit te kunnen beoefenen. 
     </div>
   </div>
 
@@ -26,19 +26,25 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <h1 class="title is-5 mt-6 has-margin-bottom-minus-10">Ervaring</h1>
 
 <div class="block mt-6 mb-5 is-family-secondary">
-  <p class="mb-1"><strong>2017 - 2021</strong></p>
-  <p class="mb-1">UI design voor JPB IT Solutions</p>
-  <p class="is-size-4 is-family-primary"><em>Veendam</em></p>
+  <p class="mb-1"><strong>2017 - heden</strong></p>
+  <p class="mb-1">UI design | Vormgever</p>
+  <p class="is-size-4 is-family-primary"><em>JPB IT Solutions</em></p>
+</div>
+
+<div class="block mt-6 mb-5 is-family-secondary">
+  <p class="mb-1"><strong>2016 - 2017</strong></p>
+  <p class="mb-1">Junior Ruby on rails developer | Vormgever</p>
+  <p class="is-size-4 is-family-primary"><em>JPB IT Solutions</em></p>
 </div>
 
 <div class="block mb-5 is-family-secondary">
   <p class="mb-1"><strong>2016</strong></p>
-  <p class="mb-1">Illustraties voor Raindropchess</p>
-  <p class="is-size-4 is-family-primary"><em>Groningen</em></p>
+  <p class="mb-1">Illustraties</p>
+  <p class="is-size-4 is-family-primary"><em>Raindropchess</em></p>
 </div>
 
 <div class="block is-family-secondary">
   <p class="mb-1"><strong>2015</strong></p>
-  <p class="mb-1">Freelance workshop docent Noorderpoort college</p>
-  <p class="is-size-4 is-family-primary"><em>Groningen</em></p>
+  <p class="mb-1">Freelance workshop docent</p>
+  <p class="is-size-4 is-family-primary"><em>Noorderpoort college</em></p>
 </div>
