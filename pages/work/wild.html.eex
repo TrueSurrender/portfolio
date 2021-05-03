@@ -18,14 +18,14 @@ title: Out in the Wild
     </p>
   </div>
   
-  <div class="columns is-6 is-offset-1">
+  <div class="columns is-6 is-offset-2">
     <p class="image">
       <img class="is-rounded" src="<%= asset "images/wild/geocache1.png" %>"></img>
     </p>
   </div>
 
   <div class="column is-6 is-offset-2">
-    <div class="column is-6">
+    <div class="column is-12">
       <div class="block mt-6 is-family-secondary has-text-centered">
       <p class="mt-6">The first cache took me a while to find. It was hidden away in a treetrunk. Imagine my beginners luck.. Pretty soon I was hooked on this amazing new hobby and driving my car to the next coordinates!</p>
     </div>

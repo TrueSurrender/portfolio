@@ -11,7 +11,7 @@ img_class =
   <%= for img <- @args[:images] do %>
     <div class="column <%= img_class %>">
       <p class="image modal-button" data-target="<%= img %>">
-        <img class="is-rounded" src="<%= asset "images/#{img}.png" %>"></img>
+        <img src="<%= asset "images/#{img}.png" %>"></img>
       </p>
 
       <div id="<%= img %>" class="modal modal-fx-fadeInScale">
