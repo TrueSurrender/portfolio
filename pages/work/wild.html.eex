@@ -3,13 +3,14 @@ title: Out in the Wild
 ---
 <div class="mb-6">
   <h1 class="title is-spaced has-text-centered">Out in the wild</h1>
-  <h6 class="subtitle is-6 has-text-centered has-margin-top-minus-15"><em>Personal work</em></h6>
+  <h6 class="subtitle is-6 has-text-centered has-margin-top-minus-15"><em>Eigen werk</em></h6>
 </div>
 <div class="columns is-multiline is-vcentered">
   <div class="column is-6">
     <div class="block mt-6 is-family-secondary has-text-centered">
-      <p class="mt-6">Welcomed a great new hobby called geocaching. I love discovering new places and the excitement of finding a treasure.</p>
+      <p class="mt-6">Wandelen in het bos, door de bergen en onverwachts een mooi meer ontdekken na een lange rit door een weiland.. Ik houd ervan om nieuwe plekken te ontdekken en het vinden van een van de vele verstopte schatten in de wereld. Sinds ik aan geocaching doe heb ik zoveel mooie plekken ontdekt.</p>
     </div>
+     <hr class="has-margin-top-50">
   </div>
 
   <div class="column is-4 is-offset-1">
@@ -20,14 +21,15 @@ title: Out in the Wild
   
   <div class="columns is-6 is-offset-2">
     <p class="image">
-      <img class="is-rounded" src="<%= asset "images/wild/geocache1.png" %>"></img>
+      <img class="is-rounded" src="<%= asset "images/wild/cache.png" %>"></img>
     </p>
   </div>
 
   <div class="column is-6 is-offset-2">
     <div class="column is-12">
       <div class="block mt-6 is-family-secondary has-text-centered">
-      <p class="mt-6">The first cache took me a while to find. It was hidden away in a treetrunk. Imagine my beginners luck.. Pretty soon I was hooked on this amazing new hobby and driving my car to the next coordinates!</p>
+      <p class="mt-6">Het duurde even voordat ik de allereerste geocache had gevonden. Deze was verstopt in een boomstam, ik had een lastige start. Maar al snel genoeg was ik helemaal hooked aan deze leuke, nieuwe hobby en alweer op weg naar de volgende geocache!</p>
     </div>
+     <hr class="has-margin-top-50">
   </div>
 </div>

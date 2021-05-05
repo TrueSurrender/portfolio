@@ -1,9 +1,9 @@
 <script src="<%= asset "js/menu.js" %>"></script>
 <nav class="navbar" role="navigation" aria-label="main navigation">
   <div class="navbar-brand">
-    <a class="navbar-item is-family-code is-uppercase" href="<%= page "index" %>">
-      <p class="image">
-        <img src="<%= asset "images/logo.png" %>"></img>
+    <a class="navbar-item is-family-code" href="<%= page "index" %>">
+      <p>
+      Sannet Bodewes
       </p>
     </a>
 
@@ -18,7 +18,7 @@
     <div class="navbar-start" >
       <div class="navbar-item has-dropdown is-hoverable">
         <span class="navbar-link">
-          Work
+          Illustraties
         </span>
 
         <div class="navbar-dropdown">
@@ -31,7 +31,7 @@
       </div>
 
       <a class="navbar-item" href="<%= page "about" %>">
-        About
+        Over mij
       </a>
     </div>
 
