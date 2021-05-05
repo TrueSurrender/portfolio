@@ -33,6 +33,10 @@
       <a class="navbar-item" href="<%= page "about" %>">
         Over mij
       </a>
+
+      <a class="navbar-item" href="<%= page "contact" %>">
+        Contact
+      </a>
     </div>
 
     <div class="navbar-end">

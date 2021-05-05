@@ -1,0 +1,48 @@
+---
+title: Contact
+---
+
+<div class="columns is-multiline is-centered">
+  <div class="column is-6">
+    <h1 class="title is-5 mt-6 is-spaced has-text-centered">Contact</h1>
+    <h6 class="subtitle is-6 has-text-centered has-margin-top-minus-15">
+      <em>Wat te vertellen of wil je wat vragen?</em>
+    </h6>
+
+<div class="field">
+  <label class="label">Naam</label>
+  <div class="control">
+    <input class="input" type="text" placeholder="Naam">
+  </div>
+</div>
+
+<div class="field">
+  <label class="label">E-mail</label>
+  <div class="control">
+    <input class="input" type="text" placeholder="E-mail">
+  </div>
+</div>
+
+<div class="field">
+  <label class="label">Onderwerp</label>
+  <div class="control">
+    <div class="select">
+      <select>
+        <option>Kies onderwerp</option>
+        <option>Opdracht</option>
+        <option>Vraag</option>
+      </select>
+    </div>
+  </div>
+</div>
+
+<div class="field">
+  <label class="label">Bericht</label>
+  <div class="control">
+    <textarea class="textarea" placeholder="Bericht"></textarea>
+  </div>
+</div>
+
+<div class="control">
+    <button class="button is-link">Versturen</button>
+</div>
