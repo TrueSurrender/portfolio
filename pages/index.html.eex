@@ -3,7 +3,7 @@ title: Portfolio
 ---
 <div class="mb-6">
   <h1 class="title is-spaced has-text-centered">Gallery</h1>
-  <h6 class="subtitle is-6 has-text-centered has-margin-top-minus-15"><em>Eigen werk</em></h6>
+  <h6 class="subtitle is-6 has-text-centered has-margin-top-minus-15"><em>Illustraties</em></h6>
 </div>
 <%= render "gallery",
   images: [

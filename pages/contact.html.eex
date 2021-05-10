@@ -12,14 +12,14 @@ title: Contact
 <div class="field">
   <label class="label">Naam</label>
   <div class="control">
-    <input class="input" type="text" placeholder="Naam">
+    <input class="input" type="text" placeholder="Naam" name="name">
   </div>
 </div>
 
 <div class="field">
   <label class="label">E-mail</label>
   <div class="control">
-    <input class="input" type="text" placeholder="E-mail">
+    <input class="input" type="text" placeholder="E-mail" name="email">
   </div>
 </div>
 
@@ -39,7 +39,7 @@ title: Contact
 <div class="field">
   <label class="label">Bericht</label>
   <div class="control">
-    <textarea class="textarea" placeholder="Bericht"></textarea>
+    <textarea class="textarea" placeholder="Bericht" textarea name="message"></textarea>
   </div>
 </div>
 

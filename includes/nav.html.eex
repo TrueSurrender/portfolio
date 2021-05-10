@@ -2,9 +2,7 @@
 <nav class="navbar" role="navigation" aria-label="main navigation">
   <div class="navbar-brand">
     <a class="navbar-item is-family-code" href="<%= page "index" %>">
-      <p>
-      Sannet Bodewes
-      </p>
+      <h4 class="title is-4">Sannet Bodewes</h4>
     </a>
 
     <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="portfolioNavbar">
