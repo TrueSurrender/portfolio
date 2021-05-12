@@ -8,7 +8,7 @@ title: Portfolio
 <%= render "gallery",
   images: [
     "home/goddess",
-    "home/mountainhouse",
+    "home/seasidehomes",
     "home/meeting",
     "home/geocache1",
     "home/daisies",
