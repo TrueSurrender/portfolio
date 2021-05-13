@@ -11,37 +11,45 @@ title: Contact
     
     <form name="contact" method="POST" data-netlify="true">
       <div class="field">
-        <label class="label">Naam</label>
-        <div class="control">
-          <input class="input" type="text" placeholder="Naam" name="name">
-        </div>
-      </div>
-
-      <div class="field">
-        <label class="label">E-mail</label>
-        <div class="control">
-          <input class="input" type="text" placeholder="E-mail" name="email">
-        </div>
-      </div>
-
-      <div class="field">
-        <label class="label">Onderwerp</label>
-        <div class="control">
-          <div class="select">
-            <select>
-              <option>Kies onderwerp</option>
-              <option>Opdracht</option>
-              <option>Vraag</option>
-            </select>
+        <label class="label">
+          Naam
+          <div class="control">
+            <input class="input" type="text" placeholder="Naam" name="name">
           </div>
-        </div>
+        </label>
       </div>
 
       <div class="field">
-        <label class="label">Bericht</label>
-        <div class="control">
-          <textarea class="textarea" placeholder="Bericht" textarea name="message"></textarea>
-        </div>
+        <label class="label">
+          E-mail
+          <div class="control">
+            <input class="input" type="text" placeholder="E-mail" name="email">
+          </div>
+        </label>
+      </div>
+
+      <div class="field">
+        <label class="label">
+          Onderwerp
+          <div class="control">
+            <div class="select">
+              <select name="subject">
+                <option>Kies onderwerp</option>
+                <option>Opdracht</option>
+                <option>Vraag</option>
+              </select>
+            </div>
+          </div> 
+        </label> 
+      </div>
+
+      <div class="field">
+        <label class="label">
+          Bericht
+          <div class="control">
+            <textarea class="textarea" placeholder="Bericht" textarea name="message"></textarea>
+          </div>
+        </label>
       </div>
 
       <div class="control">
