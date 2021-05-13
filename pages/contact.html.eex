@@ -8,41 +8,45 @@ title: Contact
     <h6 class="subtitle is-6 has-text-centered has-margin-top-minus-15">
       <em>Wat te vertellen of wil je iets vragen?</em>
     </h6>
+    
+    <form name="contact" method="POST" data-netlify="true">
+      <div class="field">
+        <label class="label">Naam</label>
+        <div class="control">
+          <input class="input" type="text" placeholder="Naam" name="name">
+        </div>
+      </div>
 
-<div class="field">
-  <label class="label">Naam</label>
-  <div class="control">
-    <input class="input" type="text" placeholder="Naam" name="name">
+      <div class="field">
+        <label class="label">E-mail</label>
+        <div class="control">
+          <input class="input" type="text" placeholder="E-mail" name="email">
+        </div>
+      </div>
+
+      <div class="field">
+        <label class="label">Onderwerp</label>
+        <div class="control">
+          <div class="select">
+            <select>
+              <option>Kies onderwerp</option>
+              <option>Opdracht</option>
+              <option>Vraag</option>
+            </select>
+          </div>
+        </div>
+      </div>
+
+      <div class="field">
+        <label class="label">Bericht</label>
+        <div class="control">
+          <textarea class="textarea" placeholder="Bericht" textarea name="message"></textarea>
+        </div>
+      </div>
+
+      <div class="control">
+        <button class="button is-link">Versturen</button>
+      </div>
+    </form>
   </div>
-</div>
-
-<div class="field">
-  <label class="label">E-mail</label>
-  <div class="control">
-    <input class="input" type="text" placeholder="E-mail" name="email">
-  </div>
-</div>
-
-<div class="field">
-  <label class="label">Onderwerp</label>
-  <div class="control">
-    <div class="select">
-      <select>
-        <option>Kies onderwerp</option>
-        <option>Opdracht</option>
-        <option>Vraag</option>
-      </select>
-    </div>
-  </div>
-</div>
-
-<div class="field">
-  <label class="label">Bericht</label>
-  <div class="control">
-    <textarea class="textarea" placeholder="Bericht" textarea name="message"></textarea>
-  </div>
-</div>
-
-<div class="control">
-    <button class="button is-link">Versturen</button>
 </div>
