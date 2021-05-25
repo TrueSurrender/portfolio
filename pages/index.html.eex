@@ -9,9 +9,9 @@ title: Portfolio
   images: [
     "home/fromhome",
     "home/seasidehomes",
-    "home/meeting",
-    "home/geocache1",
     "home/daisies",
-    "home/patternhouses"
+    "home/patternhouses",
+    "home/meeting",
+    "home/geocache1"
 
 ] %>
