@@ -7,11 +7,11 @@ title: Portfolio
 </div>
 <%= render "gallery",
   images: [
-    "home/fromhome",
+    "home/tropicalhomes",
     "home/seasidehomes",
     "home/daisies",
     "home/patternhouses",
-    "home/meeting",
+    "home/fromhome",
     "home/geocache1"
 
 ] %>

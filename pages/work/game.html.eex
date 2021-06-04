@@ -13,9 +13,9 @@ title: Faraway homes
      <hr class="has-margin-top-50">
   </div>
 
-  <div class="column is-5 is-offset-1">
+  <div class="column is-4 is-offset-1">
     <p class="image">
-    <img src="<%= asset "images/game/mountainhouse.png" %>"></img>
+    <img class="is-rounded" src="<%= asset "images/game/tropicalhomes.png" %>"></img>
     </p>
   </div>
 </div>
