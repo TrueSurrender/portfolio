@@ -3,19 +3,30 @@ title: Faraway homes
 ---
 <div class="mb-6">
   <h1 class="title is-spaced has-text-centered">Faraway homes</h1>
-  <h6 class="subtitle is-6 has-text-centered has-margin-top-minus-15"><em>Huizen, gebouwen en natuur</em></h6>
+  <h6 class="subtitle is-6 has-text-centered has-margin-top-minus-15"><em>Huizen & gebouwen</em></h6>
 </div>
 <div class="columns is-multiline is-vcentered">
   <div class="column is-6">
     <div class="block mt-6 is-family-secondary has-text-centered">
-      <p class="mt-6">Of het nu een verlaten huisje verstopt in de bergen is, een park met tiny houses of een kasteel van een huis.. ik ben altijd al geintereseerd geweest in mooie gebouwen en huizen.</p>
+      <p class="mt-6">Of het nu een verlaten huisje verstopt in de bergen is, een park met tiny houses of een kasteel van een huis.. ik ben altijd al geintereseerd geweest in mooie huizen en gebouwen.</p>
     </div>
      <hr class="has-margin-top-50">
   </div>
 
   <div class="column is-4 is-offset-1">
     <p class="image">
+    <img class="is-rounded" src="<%= asset "images/game/faraway.png" %>"></img>
+    </p>
+  </div>
+  <div class="column is-4 is-offset-1">
+    <p class="image">
     <img class="is-rounded" src="<%= asset "images/game/tropicalhomes.png" %>"></img>
     </p>
+  </div>
+  <div class="column is-6">
+    <div class="block mt-6 is-family-secondary has-text-centered">
+      <p class="mt-6">Huizen en gebouwen zijn vaak terug te zien in mijn illustraties. Ik vind het een leuke uitdaging om met weinig vormen een sprekende illustratie te maken.</p>
+    </div>
+     <hr class="has-margin-top-50">
   </div>
 </div>

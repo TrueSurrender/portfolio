@@ -1,6 +1,12 @@
 ---
 title: Contact
 ---
+<div class="has-text-centered">
+  <figure class="is-inline-block">
+    <img src="<%= asset "images/contact/tinyhouse.png" %>"</img>
+  </figure>
+</div>
+
 
 <div class="columns is-multiline is-centered">
   <div class="column is-6">
