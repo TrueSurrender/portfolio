@@ -1,8 +1,8 @@
 <script src="<%= asset "js/menu.js" %>"></script>
 <nav class="navbar" role="navigation" aria-label="main navigation">
   <div class="navbar-brand">
-    <a class="navbar-item is-family-code" href="<%= page "index" %>">
-      <h4 class="title is-4">Sannet Bodewes</h4>
+    <a class="navbar-item is-family-code has-margin-right-20" href="<%= page "index" %>">
+      <img src="<%= asset "images/home/logo.png" %>"</img>
     </a>
 
     <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="portfolioNavbar">
