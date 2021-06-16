@@ -9,5 +9,6 @@ title: Buttons
 <%= render "gallery",
   images: [
     "home/button1",
+    "home/keychain1",
     "home/button2"
-] %>
+  ] %>
