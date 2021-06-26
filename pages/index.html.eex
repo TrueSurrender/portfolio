@@ -9,9 +9,11 @@ title: Portfolio
 <%= render "gallery",
   images: [
     "home/tropicalhomes",
+    "home/coffee",
+    "home/orangeflowers",
     "home/pool",
-    "home/faraway-filled",
-    "home/patternhouses",
     "home/seasidehomes",
-    "home/plantbabies"
+    "home/plantbabies",
+    "home/patternhouses",
+    "home/faraway-filled"
 ] %>
