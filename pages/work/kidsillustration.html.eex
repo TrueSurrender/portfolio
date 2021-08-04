@@ -20,7 +20,7 @@ title: Kids room
   </div>
   <div class="column is-4 is-offset-1">
     <p class="image">
-    <img class="is-rounded" src="<%= asset "images/kidsillustration/kitties.png" %>"></img>
+    <img class="is-rounded" src="<%= asset "images/kidsillustration/rain.png" %>"></img>
     </p>
   </div>
   <div class="column is-6">

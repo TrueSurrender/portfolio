@@ -8,12 +8,15 @@ title: Portfolio
 </div>
 <%= render "gallery",
   images: [
-    "home/tropicalhomes",
-    "home/coffee",
+    "home/apps",
+    "home/location",
+    "home/nope",
     "home/whales",
-    "home/pool",
+    "home/story",
     "home/forestlady",
     "home/kitties",
-    "home/patternhouses",
+    "home/brew",
+    "home/pool",
+    "home/skyrock",
     "home/seasidehomes"
 ] %>
