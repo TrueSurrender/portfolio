@@ -9,6 +9,6 @@ title: Drawings on the wall
 <%= render "gallery",
   images: [
     "patterns/Birbpoop",
-    "patterns/kitties",
+    "patterns/doggos",
     "patterns/vierkanthuisjes"
   ] %>
