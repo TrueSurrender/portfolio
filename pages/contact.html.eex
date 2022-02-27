@@ -5,7 +5,7 @@ title: Contact
 <div class="columns is-multiline is-centered">
   <div class="column is-6">
     <h6 class="subtitle is-6 has-text-centered has-margin-top-minus-15">
-      Wat te vertellen of wil je iets vragen?
+      Contact
     </h6>
     
     <form name="contact" method="POST" data-netlify="true">
