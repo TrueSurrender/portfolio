@@ -7,14 +7,14 @@ title: About
       Illustrator en vormgever
     </h6>
 
-    <div class="block mt-6 is-family-secondary has-text-centered">
+    <div class="block mt-4 is-family-secondary has-text-centered">
 Hallo! ik ben Sannet, enthousiaste illustrator en vormgever.  In 2015 studeerde ik af als illustrator aan Academie Minerva in Groningen. Een periode ben ik freelancer geweest en heb ik aan verschillende opdrachten gewerkt. Momenteel ben ik werkzaam als UI designer en verzorg ik de vormgeving voor het bedrijf waar ik in dienst ben. Ik ben veelzijdig en vind het dan ook erg leuk om verschillende vormen van creativiteit te kunnen beoefenen maar mijn passie is het maken van illustraties en kinderillustraties. 
     </div>
   </div>
 
-  <div class="column is-3 is-offset-1">
+  <div class="column is-4 is-offset-1">
     <p class="image">
-      <img src="<%= asset "images/about.png" %>" class="is-rounded"></img>
+      <img src="<%= asset "images/about.png" %>" class=""></img>
     </p>
   </div>
 </div>
