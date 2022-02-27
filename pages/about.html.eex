@@ -3,9 +3,8 @@ title: About
 ---
 <div class="columns is-multiline is-centered">
   <div class="column is-6">
-    <h1 class="title is-5 mt-6 is-spaced has-text-centered">Sannet Bodewes</h1>
     <h6 class="subtitle is-6 has-text-centered has-margin-top-minus-15">
-      <em>Illustrator en vormgever</em>
+      Illustrator en vormgever
     </h6>
 
     <div class="block mt-6 is-family-secondary has-text-centered">
@@ -13,7 +12,7 @@ Hallo! ik ben Sannet, enthousiaste illustrator en vormgever.  In 2015 studeerde 
     </div>
   </div>
 
-  <div class="column is-4 is-offset-1">
+  <div class="column is-3 is-offset-1">
     <p class="image">
       <img src="<%= asset "images/about.png" %>" class="is-rounded"></img>
     </p>
