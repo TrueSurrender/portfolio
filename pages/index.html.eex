@@ -3,14 +3,14 @@ title: Portfolio
 ---
 <%= render "gallery",
   images: [
-    "home/slaaptent",
-    "home/mini",
+    "home/bday",
+    "home/sushi",
+    "home/tea",
     "home/wolkje",
-    "home/me",
     "home/astro",
     "home/bunny",
     "home/hometown",
-    "home/girl",
+    "home/recipe",
     "home/duckcloud",
     "home/snooze2",
     "home/coffee",
