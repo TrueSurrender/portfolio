@@ -5,15 +5,11 @@ title: Portfolio
   images: [
     "home/bday",
     "home/cups",
+    "home/weekend",
     "home/tea",
-    "home/wolkje",
     "home/sushi",
-    "home/bunny",
+    "home/sunflower",
     "home/hometown",
     "home/red",
-    "home/duckcloud",
-    "home/snooze2",
-    "home/coffee",
-    "home/trip"
-    
+    "home/whales"
 ] %>
