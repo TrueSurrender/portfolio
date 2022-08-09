@@ -19,6 +19,10 @@
           Illustraties
         </a>
 
+         <a class="navbar-item" href="<%= page "ui illustration" %>">
+          UI illustraties
+        </a>
+
         <a class="navbar-item" href="<%= page "about" %>">
           Over mij
         </a>
