@@ -3,12 +3,13 @@ title: Portfolio
 ---
 <%= render "gallery",
   images: [
-    "home/vosje",
-    "home/nature",
-    "home/bluebird",
+    "home/hartje",
+    "home/hi",
     "home/jungle",
-    "home/flamingo",
+    "home/bluebird",
+    "home/burrow",
+    "home/bear",
     "home/friends",
-    "home/fall",
-    "home/ballet"
+    "home/me",
+    "home/huisje"
 ] %>
