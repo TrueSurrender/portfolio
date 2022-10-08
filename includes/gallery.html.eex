@@ -7,7 +7,7 @@ img_class =
 
 <script src="<%= asset "js/gallery.js" %>"></script>
 
-<div class="columns is-multiline is-gapless is-centered is-mobile">
+<div class="columns is-multiline is-centered is-mobile">
   <%= for img <- @args[:images] do %>
     <div class="column <%= img_class %>">
       <p class="image modal-button" data-target="<%= img %>">

@@ -3,7 +3,6 @@ title: Portfolio
 ---
 <%= render "gallery",
   images: [
-    "home/connect",
-    "home/firsthome",
-    "home/landingpage"
+    "home/webshop-page",
+    "home/dreamhomes"
 ] %>

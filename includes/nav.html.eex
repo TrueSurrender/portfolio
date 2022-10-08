@@ -20,7 +20,7 @@
         </a>
 
          <a class="navbar-item" href="<%= page "ui illustration" %>">
-          UI illustraties
+          UI design
         </a>
 
         <a class="navbar-item" href="<%= page "about" %>">
