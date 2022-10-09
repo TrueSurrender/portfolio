@@ -3,10 +3,10 @@ title: Contact
 ---
 
 <div class="columns is-multiline is-centered">
-  <div class="column is-6">
-    <h6 class="subtitle is-6 has-text-centered has-margin-top-minus-15">
+  <div class="column is-four-fifths">
+    <h1 class="subtitle is-6 has-text-centered has-margin-top-minus-15">
       Contact
-    </h6>
+    </h1>
     
     <form name="contact" method="POST" data-netlify="true">
       <div class="field">

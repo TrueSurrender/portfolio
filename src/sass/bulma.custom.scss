@@ -1,9 +1,9 @@
-$family-primary: 'Amatic SC', 'Helvetica';
+$family-primary: 'Montserrat', 'Helvetica';
 $family-secondary: 'Raleway', sans-serif;
 $family-code: 'Amatic SC', 'Helvetica';
 
 $title-weight: 600;
-$title-strong-weight: 1000;
+$title-strong-weight: 800;
 
 $size-1: 1rem;
 $size-2: 1rem;
@@ -11,10 +11,10 @@ $size-4: 1rem;
 $size-5: 1.8rem;
 $size-6: 1rem;
 
-$link: #9DB1AA;
-$navbar-dropdown-item-hover-color: #BBD3CA;
-$navbar-item-hover-background-color: #EFF4F2;
-$navbar-dropdown-item-hover-background-color: #EFF4F2;
+$link: rgb(0, 0, 0);
+$navbar-dropdown-item-hover-color: rgb(0, 0, 0);
+$navbar-item-hover-background-color: #FFFFF;
+$navbar-dropdown-item-hover-background-color: #FFD5C7;
 $navbar-item-img-max-height: 4.5rem;
 $column-gap: 1rem;
 
@@ -28,8 +28,12 @@ $column-gap: 1rem;
   }
 
   .navbar-item {
-    font-size: 1.2rem;
+    font-size: 1rem;
     font-weight: 600;
+  }
+
+  hr {
+    margin: 0px;
   }
 
 
