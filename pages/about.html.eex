@@ -12,7 +12,7 @@ Hallo! ik ben Sannet, enthousiaste illustrator en vormgever.  In 2015 studeerde 
 
   <div class="column is-4 is-offset-1">
     <p class="image">
-      <img src="<%= asset "images/Avatar.png" %>" class=""></img>
+      <img src="<%= asset "images/avatar.png" %>" class=""></img>
     </p>
   </div>
 </div>
