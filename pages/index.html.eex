@@ -3,10 +3,10 @@ title: Portfolio
 ---
 <%= render "gallery",
   images: [
-    "home/whale",
-    "home/birb",
-    "home/fox",
-    "home/ride",
+    "home/Sleepy time",
+    "home/Poppies",
+    "home/Partyworm",
+    "home/Mees",
     "home/fallingstar",
     "home/springkitty",
     "home/firsthome",
