@@ -2,7 +2,7 @@
 <nav class="navbar" role="navigation" aria-label="main navigation">
   <div class="navbar-brand">
     <a class="navbar-item is-family-code has-margin-right-20" href="<%= page "index" %>">
-      <img src="<%= asset "images/home/logo.png" %>"</img>
+      <img src="<%= asset "images/home/logo2.png" %>"</img>
     </a>
 
     <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="portfolioNavbar">
