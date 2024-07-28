@@ -3,9 +3,9 @@ title: Portfolio
 ---
 <%= render "gallery",
   images: [
-    "home/qmail",
     "home/webshop-page",
     "home/dreamhomes",
+    "home/qmail",
     "home/travrs",
     "home/Travrs2"
 ] %>
