@@ -3,13 +3,14 @@ title: Portfolio
 ---
 <%= render "gallery",
   images: [
-    "home/Sleepy time",
-    "home/Poppies",
+    "home/Zeemeeuw",
+    "home/Avontuur",
+    "home/Sleepytime",
     "home/Partyworm",
     "home/Mees",
-    "home/Kidsroom",
+    "home/Visjes",
     "home/londonbus",
     "home/firsthome",
-    "home/Icecream",
+    "home/Gesprek",
     "home/friends"
 ] %>
