@@ -2,7 +2,7 @@
 title: About
 ---
 <div class="columns is-multiline">
-  <div class="column is-6">
+  <div class="column is-12">
     <p class="image">
       <img src="<%= asset "images/avatar.png" %>"</img>
       </p>
