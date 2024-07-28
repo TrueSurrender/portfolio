@@ -2,11 +2,6 @@
 title: About
 ---
 <div class="columns is-multiline">
-  <div class="column is-12">
-    <p class="image">
-      <img src="<%= asset "images/avatar.png" %>"</img>
-      </p>
-    </div>
     <div class="column is-6">
       <h1 class="title is-5 mt-6">Illustrator en vormgever</h1>
 
