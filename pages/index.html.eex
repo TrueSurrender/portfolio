@@ -3,6 +3,7 @@ title: Portfolio
 ---
 <%= render "gallery",
   images: [
+    "home/Vogels-blauw",
     "home/Zeemeeuw",
     "home/Avontuur",
     "home/Sleepy time",
