@@ -3,13 +3,13 @@ title: Portfolio
 ---
 <%= render "gallery",
   images: [
-    "home/Vogelsb",
+    "home/Huisjeskerst",
     "home/Zeemeeuw",
     "home/Avontuur",
     "home/Sleepy time",
     "home/Partyworm",
     "home/Mees",
-    "home/Visjes",
+    "home/Muisjekerst",
     "home/londonbus",
     "home/firsthome",
     "home/Gesprek",
