@@ -36,7 +36,7 @@
     </div>
 
     <div class="navbar-end">
-      <a href="mailto:sannetbodewes@gmail.com" target="_blank" class="navbar-item">
+      <a href="mailto:me@sannetbodewes.nl" target="_blank" class="navbar-item">
         <span class="icon">
           <i class="zmdi zmdi-email zmdi-hc-lg"></i>
         </span>
@@ -51,11 +51,6 @@
       <a href="https://instagram.com/san_and_so" target="_blank" class="navbar-item">
         <span class="icon">
           <i class="zmdi zmdi-instagram zmdi-hc-lg"></i>
-        </span>
-      </a>
-      <a href="https://SanandSo.redbubble.com" target="_blank" class="navbar-item">
-        <span class="icon">
-          <i class="zmdi zmdi-store zmdi-hc-lg"></i>
         </span>
       </a>
     </div>
