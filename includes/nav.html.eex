@@ -17,21 +17,19 @@
   <div id="portfolioNavbar" class="navbar-menu">
     <div class="navbar-start" >
       <div class="navbar-item is-hoverable">
-        <a class="navbar-item" href="<%= page "index" %>">
-          Illustraties
-        </a>
+        <ul>
+          <li><a class="navbar-item" href="<%= page "index" %>">
+          Illustraties</a></li>
 
-         <a class="navbar-item" href="<%= page "ui illustration" %>">
-          UI design
-        </a>
+          <li><a class="navbar-item" href="<%= page "ui illustration" %>">
+          UI design</a></li>
 
-        <a class="navbar-item" href="<%= page "about" %>">
-          Over mij
-        </a>
+          <li><a class="navbar-item" href="<%= page "about" %>">
+          Over mij</a></li>
 
-        <a class="navbar-item" href="<%= page "contact" %>">
-          Contact
-        </a>
+          <li><a class="navbar-item" href="<%= page "contact" %>">
+          Contact</a></li>
+        </ul>
       </div>
     </div>
 
