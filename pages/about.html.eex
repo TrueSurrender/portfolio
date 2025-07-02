@@ -3,12 +3,16 @@ title: About
 ---
 <div class="columns is-multiline">
     <div class="column is-6">
-      <h1 class="title is-5 mt-6">Illustrator en vormgever</h1>
+      <h1 class="title is-6 mt-6">Illustrator</h1>
+      <h1 class="title is-6 mt-6">en vormgever</h1>
 
         <div class="block mt-4 is-family-secondary">
-Hallo! ik ben Sannet, enthousiaste illustrator en vormgever.  In 2015 studeerde ik af als illustrator aan Academie Minerva in Groningen. Een periode ben ik freelancer geweest en heb ik aan verschillende opdrachten gewerkt. Momenteel ben ik werkzaam als UI designer en verzorg ik de vormgeving voor het bedrijf waar ik in dienst ben. Ik ben veelzijdig en vind het dan ook erg leuk om verschillende vormen van creativiteit te kunnen beoefenen maar mijn passie is het maken van illustraties en kinderillustraties. 
-      </div>
-    </div>
+          Hallo! Ik ben Sannet, een enthousiaste illustrator en vormgever. In 2015 studeerde ik af als illustrator aan Academie Minerva in Groningen. Na een periode als freelancer, waarin ik diverse opdrachten uitvoerde, werk ik momenteel als UI designer.
+        </div>
+        <div class="block mt-4 is-family-secondary">
+          Ik verzorg ik de vormgeving voor het bedrijf waar ik in dienst ben. Ik ben erg veelzijdig en geniet ervan om verschillende creatieve disciplines te beoefenen, al ligt mijn hart toch echt bij het maken van illustraties, en dan vooral kinderillustraties.
+        </div>
+     </div>
 </div>
 
 <hr>
