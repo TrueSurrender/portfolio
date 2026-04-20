@@ -4,11 +4,11 @@ title: Portfolio
 <%= render "gallery",
   images: [
     "home/bluebirds",
-    "home/teatime",
+    "home/dogs",
     "home/embrace",
     "home/breakfast",
     "home/bear",
-    "home/sup",
+    "home/pasen",
     "home/swans",
     "home/Muisjekerst",
     "home/londonbus",
