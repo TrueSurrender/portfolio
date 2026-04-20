@@ -22,7 +22,7 @@
           Illustraties</a></li>
 
           <li><a class="navbar-item" href="<%= page "ui illustration" %>">
-          UI design</a></li>
+          Vormgeving</a></li>
 
           <li><a class="navbar-item" href="<%= page "about" %>">
           Over mij</a></li>
